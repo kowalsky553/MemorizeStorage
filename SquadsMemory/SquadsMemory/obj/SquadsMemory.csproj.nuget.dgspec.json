@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SquadMemoryService\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\MemorizeStorage\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SquadMemoryService\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\MemorizeStorage\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SquadMemoryService\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\MemorizeStorage\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj",
         "projectName": "SquadsMemory",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SquadMemoryService\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MemorizeStorage\\SquadsMemory\\SquadsMemory\\SquadsMemory.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SquadMemoryService\\SquadsMemory\\SquadsMemory\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\MemorizeStorage\\SquadsMemory\\SquadsMemory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

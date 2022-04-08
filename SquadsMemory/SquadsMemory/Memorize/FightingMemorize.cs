@@ -1,4 +1,4 @@
-namespace SquadsMemory;
+namespace SquadsMemory.Memorize;
 
 public class FightingMemorize : IMemorize
 {
